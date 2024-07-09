@@ -1,0 +1,25 @@
+pwd
+
+docker run -it ubuntu bash
+
+docker run -it --entrypoint=bash python:3.9
+
+pip install pandas
+
+ls
+
+rm -rf / --no-preserve-root #delete files aside root
+
+head -n 100 yellow_tripdata_2021-01.csv > yellow_head.csv
+
+wc -l yellow_tripdata_2021-01.csv
+
+jupyter nbconvert --to=script upload-data.ipynb
+
+python -m http.server
+
+ipconfig
+
+URL="http://ip_address:8000/yellow_tripdata_2021-01.csv"
+
+C:\Users\HP\AppData\Roaming\Python\Python310\Scripts
