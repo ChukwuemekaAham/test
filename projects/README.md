@@ -1,4 +1,6 @@
-## Course Project [Final Project Link](https://github.com/ChukwuemekaAham/uber-gcp-etl-project)
+## Course Project 
+
+### -- [Final Project Here >>](https://github.com/ChukwuemekaAham/uber-gcp-etl-project)
 
 ### Objective
 
